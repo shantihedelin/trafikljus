@@ -1,0 +1,66 @@
+h1 {
+  text-align: center;
+}
+
+.Stop {
+  background-color: red;
+  width: 120px;
+  height: 120px;
+  border: 20px solid darkred;
+  display: block;
+}
+
+.Wait {
+  background-color: yellow;
+  width: 120px;
+  height: 120px;
+  border: 20px solid darkgoldenrod;
+  display: block;
+  margin-top: 7px;
+}
+
+.Go {
+  background-color: #008001;
+  width: 120px;
+  height: 120px;
+  border: 20px solid #006400;
+  display: block;
+  margin-top: 7px;
+}
+
+.containerOuter {
+  width: 100%;
+  
+}
+
+.container {
+  border: solid 7px white;
+  background-color: white;
+  width: 160px;
+  margin: auto;
+}
+
+body {
+  background-color: rgb(194, 165, 221);
+  width: 100%;
+}
+
+.Stopbox {
+  background-color: #ff948d;
+  height: 60px;
+  margin-top: 60px;
+}
+
+.Waitbox {
+  background-color: #ffff9d;
+  margin-top: 60px;
+  margin-left: 60px;
+  height: 60px
+}
+
+.Gobox {
+    background-color: #92bf8b;
+    height: 60px;
+    margin-top: 60px;
+    margin-right: 60px;
+  }
